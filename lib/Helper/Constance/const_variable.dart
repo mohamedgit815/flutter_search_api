@@ -1,0 +1,1 @@
+const String baseUrl = 'https://dev.scopelinks.com/test/wp-json';
